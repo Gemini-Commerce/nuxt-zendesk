@@ -28,7 +28,7 @@
     "lib"
   ],
   "dependencies": {
-    "@dansmaculotte/vue-zendesk": "https://github.com/Gemini-Commerce/vue-zendesk#17198b69e01ca9667bed53f97b48cd4ecedaf652"
+    "@dansmaculotte/vue-zendesk": "https://github.com/Gemini-Commerce/vue-zendesk#890cf3e3fb6cbc768f42352f95d846f95f857cff"
   },
   "devDependencies": {
     "@babel/core": "latest",
